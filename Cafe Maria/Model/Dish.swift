@@ -57,7 +57,7 @@ class DishDB: DishDBProtocol {
     private init(){
         dishes = [
             Dish(title: "Caesar", price: 20, weight: 200, image: UIImage(named: "caesar")!, ingredients: "Green salad, tomatoes, chicken fillet, white bread, Caesar dressing, garlic, parmesan", description: "We all know what it is: chopped romaine lettuce and garlicky croutons, tossed in a creamy dressing made with eggs, olive oil, lemon, Parmesan, Worcestershire sauce, and anchovies. Even when mass-produced, this combination of savory, creamy, tangy, and crunchy ingredients is tasty stuff.", type: .salad),
-            Dish(title: "Greek", price: 25, weight: 220, image: UIImage(named: "greek")!, ingredients: "smt", description: "smt", type: .salad)
+            Dish(title: "Greek", price: 25, weight: 220, image: UIImage(named: "greek")!, ingredients: "smt", description: "Greek salad is a popular salad in Greek cuisine generally made with pieces of tomatoes, cucumbers, onion, feta cheese (usually served as a slice on top of the other ingredients), and olives (typically Kalamata olives) and dressed with salt, Greek oregano, and olive oil.", type: .salad)
         ]
     }
     
