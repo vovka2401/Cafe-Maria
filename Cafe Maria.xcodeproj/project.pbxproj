@@ -23,7 +23,7 @@
 		44DF24EA28B1092D005C59FA /* EditOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DF24E928B1092D005C59FA /* EditOrderViewController.swift */; };
 		44DF24EC28B10C90005C59FA /* EditDishCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DF24EB28B10C90005C59FA /* EditDishCell.swift */; };
 		44DF24EE28B24CC1005C59FA /* CheckViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DF24ED28B24CC1005C59FA /* CheckViewController.swift */; };
-		44DF24F028BA1B3B005C59FA /* .gitignore.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44DF24EF28BA1B3B005C59FA /* .gitignore.txt */; };
+		44DF24F228BA4693005C59FA /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 44DF24F128BA4693005C59FA /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,7 +45,7 @@
 		44DF24E928B1092D005C59FA /* EditOrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditOrderViewController.swift; sourceTree = "<group>"; };
 		44DF24EB28B10C90005C59FA /* EditDishCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDishCell.swift; sourceTree = "<group>"; };
 		44DF24ED28B24CC1005C59FA /* CheckViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckViewController.swift; sourceTree = "<group>"; };
-		44DF24EF28BA1B3B005C59FA /* .gitignore.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore.txt; sourceTree = "<group>"; };
+		44DF24F128BA4693005C59FA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 		44AAD9FB2883FB9500341184 = {
 			isa = PBXGroup;
 			children = (
-				44DF24EF28BA1B3B005C59FA /* .gitignore.txt */,
+				44DF24F128BA4693005C59FA /* .gitignore */,
 				44AADA062883FB9500341184 /* Cafe Maria */,
 				44AADA052883FB9500341184 /* Products */,
 			);
@@ -198,9 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44DF24F228BA4693005C59FA /* .gitignore in Resources */,
 				44AADA142883FB9600341184 /* LaunchScreen.storyboard in Resources */,
 				44AADA112883FB9600341184 /* Assets.xcassets in Resources */,
-				44DF24F028BA1B3B005C59FA /* .gitignore.txt in Resources */,
 				44AADA0F2883FB9500341184 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
