@@ -1,10 +1,3 @@
-//
-//  DishViewController.swift
-//  Cafe Maria
-//
-//  Created by Volodymyr Khvaliuk on 17.08.2022.
-//
-
 import UIKit
 
 class DishViewController: UIViewController {

@@ -1,10 +1,3 @@
-//
-//  CheckViewController.swift
-//  Cafe Maria
-//
-//  Created by Volodymyr Khvaliuk on 21.08.2022.
-//
-
 import UIKit
 
 class CheckViewController: UIViewController {

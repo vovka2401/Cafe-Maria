@@ -1,10 +1,3 @@
-//
-//  Dish.swift
-//  Cafe Maria
-//
-//  Created by Volodymyr Khvaliuk on 19.07.2022.
-//
-
 import UIKit
 
 enum DishType: String{

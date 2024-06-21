@@ -1,10 +1,3 @@
-//
-//  EditOrderViewController.swift
-//  Cafe Maria
-//
-//  Created by Volodymyr Khvaliuk on 20.08.2022.
-//
-
 import UIKit
 
 class EditOrderViewController: UIViewController {

@@ -1,10 +1,3 @@
-//
-//  User.swift
-//  Cafe Maria
-//
-//  Created by Volodymyr Khvaliuk on 18.07.2022.
-//
-
 import UIKit
 
 protocol UserProtocol{

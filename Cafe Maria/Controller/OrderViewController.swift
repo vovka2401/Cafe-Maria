@@ -1,10 +1,3 @@
-//
-//  OrderViewController.swift
-//  Cafe Maria
-//
-//  Created by Volodymyr Khvaliuk on 15.08.2022.
-//
-
 import UIKit
 
 class OrderViewController: UIViewController {
